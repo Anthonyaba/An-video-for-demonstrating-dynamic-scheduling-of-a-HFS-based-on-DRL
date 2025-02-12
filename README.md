@@ -13,4 +13,6 @@ This repository is used to store a video file. The video simply demonstrates the
 (3) Training Curve
 
 ![case0](https://github.com/user-attachments/assets/32466646-b186-4353-92c1-86f336a8056e)
-![case0](https://github.com/user-attachments/assets/0ee93400-851a-4861-aaaa-c646ab297365)
+
+![case4](https://github.com/user-attachments/assets/bdc64cfc-6269-4359-9cb6-b6d95a9f0322)
+
