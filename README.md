@@ -2,7 +2,7 @@ This repository is used to store a video file. The video simply demonstrates the
 
 ![image](https://github.com/user-attachments/assets/48c3c28e-71b3-49ae-bb62-655b2c7b776d)
 
-（1） Stage Schedunling Agent
+(1) Stage Schedunling Agent
 
 ![image](https://github.com/user-attachments/assets/97d122d8-911b-4ea6-9df1-e3b5f321480d)
 
